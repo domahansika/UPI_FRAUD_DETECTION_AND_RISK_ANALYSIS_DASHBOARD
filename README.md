@@ -1,0 +1,2 @@
+# UPI_FRAUD_DETECTION_AND_RISK_ANALYSIS_DASHBOARD
+This project is an Excel - based Dashboard designed to analyze UPI Transaction Data and detect potential fraud patterns.                    It highlights key insights such as fraud percentage, high risk time and location based trends.The goal was to present the data in a clear and interactive way using Excel dashboards and visualisation techniques.
